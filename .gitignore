@@ -7,13 +7,10 @@
 .env.local
 
 # Logs
-/storage/logs
+
 
 # Cache
-/storage/framework/cache
-/storage/framework/sessions
-/storage/framework/views
-/storage/app/public
+
 
 # Other
 .DS_Store
