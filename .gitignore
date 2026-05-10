@@ -16,6 +16,5 @@
 /storage/app/public
 
 # Other
-/bootstrap/cache
 .DS_Store
 node_modules
