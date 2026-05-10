@@ -1,0 +1,20 @@
+# Dependencies
+/node_modules
+/vendor
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+/storage/logs
+
+# Cache
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/storage/app/public
+
+# Other
+/bootstrap/cache
+.DS_Store
